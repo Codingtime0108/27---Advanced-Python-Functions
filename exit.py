@@ -5,4 +5,11 @@ for age in ages:
         print(exit)
         exit()
     else:
-        print (age, "allowed")
+        print (age, "allowed")       
+
+for i in range (10):
+    if i == 5:
+        print(exit)
+        exit()
+        
+print()
